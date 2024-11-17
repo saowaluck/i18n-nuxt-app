@@ -2,6 +2,7 @@ import en from "./locales/en.json";
 import ja from "./locales/ja.json";
 import fr from "./locales/fr.json";
 import th from "./locales/th.json";
+import ko from "./locales/ko.json";
 
 export default defineI18nConfig(() => ({
     legacy: false,
@@ -11,6 +12,7 @@ export default defineI18nConfig(() => ({
         en,
         ja,
         fr,
-        th
+        th,
+        ko
     }
 }))
