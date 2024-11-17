@@ -2,8 +2,5 @@
   "hello": "Hello, {name}!",
   "language": "Language",
   "main": "Main",
-  "home": "Home",
-  "about": "About",
-  "services": "Services",
-  "contact": "Contact"
+  "home": "Home"
 }
